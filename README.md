@@ -1,6 +1,11 @@
 # 100DaysOfCode
-Desafio de 100 dias de código - Melhore seu JavaScript e sua constância!
-Esta é uma lista de 100 exercícios de JavaScript, organizados do básico ao avançado. A ideia é que você progrida gradualmente, começando com fundamentos e avançando para conceitos mais complexos.
+## Introdução
+
+Este documento contém uma lista de 100 exercícios de JavaScript, organizados do básico ao avançado. O objetivo desta lista é proporcionar um plano de estudos consistente e progressivo, permitindo que você pratique e aprimore suas habilidades em JavaScript ao longo do tempo. 
+
+Cada exercício aborda um conceito fundamental ou avançado da linguagem, ajudando a desenvolver lógica de programação, manipulação de dados, interação com APIs e técnicas modernas de desenvolvimento. Se você seguir um ritmo de um exercício por dia, em pouco mais de três meses terá adquirido uma base sólida para enfrentar desafios reais no desenvolvimento web e além. 
+
+Agora, mãos à obra e bons estudos! 🚀
 
 ## **Fundamentos do JavaScript (1-20)**
 1. Exibir "Olá, Mundo!" no console.  
@@ -112,7 +117,5 @@ Esta é uma lista de 100 exercícios de JavaScript, organizados do básico ao av
 99. Criar um bot para Discord.
 100. Criar um assistente virtual simples.
 
-
-(O restante da lista segue até o número 100, cobrindo funções avançadas, assíncronismo, APIs e desafios complexos.)
 
 🚀 Boa prática! Se precisar de alguma explicação extra, só chamar. 😃
