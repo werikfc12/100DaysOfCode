@@ -1,5 +1,8 @@
 
-function quadrados3(num) {
-
-return Math.pow(num, 2)
+function quadrado2(num) {
+    return num * num;
 }
+let numero = 2;
+let quadrado = quadrado2(numero);
+
+console.log(quadrado);
